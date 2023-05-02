@@ -1,2 +1,3 @@
-# aws-examples
+# AWS Examples
+
 Examples using AWS services.
